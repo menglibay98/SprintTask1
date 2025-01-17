@@ -10,7 +10,7 @@
 </head>
 <body>
 <div class="container">
-    <nav class="navbar navbar-expand-lg bg-primary-emphasis">
+    <nav class="navbar navbar-expand-lg bg-primary">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">Task Manager</a>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
